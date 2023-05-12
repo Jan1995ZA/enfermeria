@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import { Carrusel } from "./Carrusel" 
 export function Menu() {
     return (
         <>
@@ -26,6 +27,7 @@ export function Menu() {
                     </div>
                 </div>
             </nav>
+            <Carrusel/>
         </>
     )
 }
