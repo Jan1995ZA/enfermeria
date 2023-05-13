@@ -27,7 +27,7 @@ export function Menu() {
                     </div>
                 </div>
             </nav>
-            <Carrusel/>
+
         </>
     )
 }
